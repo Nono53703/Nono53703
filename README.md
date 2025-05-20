@@ -43,6 +43,3 @@ for turn in range(10): #Defines number of turns
         print ("Game Over")
         print ("The row where the ship used to be is: ", ship_row) #to know ship's ccords
         print ("The rocolumn where the ship used to be is: ", ship_col)
-
-- ⚡ Fun fact: ...
--->
