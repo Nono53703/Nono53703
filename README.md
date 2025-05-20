@@ -39,7 +39,7 @@ for turn in range(10): #Defines number of turns
     
     print ("Turn", turn + 1)
     print_board(board)
-    if turn == 8: #defines number of turns to guess
+    if turn == 4: #defines number of turns to guess
         print ("Game Over")
         print ("The row where the ship used to be is: ", ship_row) #to know ship's ccords
         print ("The rocolumn where the ship used to be is: ", ship_col)
